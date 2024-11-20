@@ -21,6 +21,6 @@
 	"lang": "ja",
 	"name": "pwa-hello",
 	"short_name": "pwa-hello",
-	"start_url": "https://main.d2kocsd3uhn4nd.amplifyapp.com/",
-	"scope": "https://main.d2kocsd3uhn4nd.amplifyapp.com/"
+	"start_url": "__START_URL__",
+	"scope": "__SCOPE__"
 }
